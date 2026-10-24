@@ -2,19 +2,18 @@
 
 A small browser calculator built with plain HTML, CSS, and JavaScript.
 
-# Preview
+## Preview
 ![Project Image](/image.png)
 
-# Live
+## Live
 [Live Page](https://markleejanalipio.github.io/calculator/)
 
-# Features
-
+## Features
 - Basic operations: `+`, `-`, `x`, `/`
 - Decimal input and percent conversion
 - Delete and clear controls
 
-# Pseudocode
+## Pseudocode
 1. CREATE basic math functions
     - `add`
     - `subtract`
